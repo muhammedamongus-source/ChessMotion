@@ -1,4 +1,4 @@
-# ChesssMotion
+# ChessMotion
 
 A cinematic chess editing and replay software.
 
